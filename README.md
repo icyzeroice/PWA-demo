@@ -2,6 +2,7 @@
 
 Just have a try for Progressive Web Application.
 
+
 # How to start this ?
 
 ### Android
@@ -16,12 +17,6 @@ Just have a try for Progressive Web Application.
 - 这时，你在此设置页面的搜索中键入`pwa`，你可以看到有一个选项 `#enable-desktop-pwa`，请将其设置成 `Enabled`。
 - 最后，你就可以在菜单中看到 `添加到桌面` 的选项了（有的版本可能在菜单的 `更多工具` 中）。
 
-# Sites that support PWA
-
-谷歌、微软的几乎全部网页应用、国内的有道云笔记都支持 PWA，可以用来测试此功能。
-
-(注意：这里的“支持”，主要是指支持这种通过使用 Manifest 文件来定义网页元数据，使用 Service Work 使网页应用可以自动缓存、离线执行，甚至可以进行系统通知功能，的一种渐进式 Web 应用。然而如果网页没有支持 PWA 的功能，此功能将只是简单地将网页链接和图标发送到桌面。)
-
 ### Firefox (Windows/Linux)
 
 ### Edge
@@ -35,6 +30,14 @@ Just have a try for Progressive Web Application.
 [参考](https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/#uifT4al7ZkQgfuHf.97)
 
 ### Safari
+
+
+# Sites that support PWA
+
+谷歌、微软的几乎全部网页应用、国内的有道云笔记都支持 PWA，可以用来测试此功能。
+
+(注意：这里的“支持”，主要是指支持这种通过使用 Manifest 文件来定义网页元数据，使用 Service Work 使网页应用可以自动缓存、离线执行，甚至可以进行系统通知功能，的一种渐进式 Web 应用。然而如果网页没有支持 PWA 的功能，此功能将只是简单地将网页链接和图标发送到桌面。)
+
 
 # Reference
 
