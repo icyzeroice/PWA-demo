@@ -18,8 +18,9 @@ Just have a try for Progressive Web Application.
 
 # Sites that support PWA
 
-谷歌、微软的网页应用几乎都支持 PWA，可以用来测试此功能。
-(注意：这里的“支持”，主要是指支持这种通过使用 Manifest 文件来定义网页元数据，使用 Service Work 使网页应用可以自动缓存、离线执行，甚至可以进行系统通知功能，的一种渐进式 Web 应用)
+谷歌、微软的几乎全部网页应用、国内的有道云笔记都支持 PWA，可以用来测试此功能。
+
+(注意：这里的“支持”，主要是指支持这种通过使用 Manifest 文件来定义网页元数据，使用 Service Work 使网页应用可以自动缓存、离线执行，甚至可以进行系统通知功能，的一种渐进式 Web 应用。而并非只是简单的将网页链接发送到桌面。)
 
 ### Firefox (Windows/Linux)
 
