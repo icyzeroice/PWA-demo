@@ -26,5 +26,16 @@ Just have a try for Progressive Web Application.
 
 ### Edge
 
+微软好像是打算绕个弯子？
+
+让开发者用 pwa builder 来打包网页成他们所谓的 appx 应用，然后在 Microsoft Store 上发布，最后用户需要下载使用。
+
+(目前我只在 Microsoft Store 找到了一个叫 [Bundle Generator](https://www.microsoft.com/zh-cn/store/p/bundle-generator/9nblggh43pmq) 的官方应用，可以用来打包 appx 应用。)
+
+[参考](https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/#uifT4al7ZkQgfuHf.97)
+
 ### Safari
 
+# Reference
+
+- [移动端应用迎来 WEB 时代：Google/Microsoft/Apple 已全部支持 PWA 技术](https://zhuanlan.zhihu.com/p/34247322)
