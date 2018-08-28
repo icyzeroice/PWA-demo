@@ -41,4 +41,5 @@ Just have a try for Progressive Web Application.
 
 # Reference
 
+- [MDN - Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
 - [移动端应用迎来 WEB 时代：Google/Microsoft/Apple 已全部支持 PWA 技术](https://zhuanlan.zhihu.com/p/34247322)
