@@ -5,7 +5,7 @@
   "short_name": "PWA Demo",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#000",
   "description": "Demo for PWA",
   "icons": [{
     "src": "favicon.ico",
